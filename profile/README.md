@@ -1,6 +1,10 @@
 # Datograde 🚀
 
-Welcome to **Datograde** – your end-to-end AI evaluation platform. If you are building AI pipelines, you will find the need to carefully tile documents, websites, prompts, and outputs on your screen, so that you can debug issues, figure out the right prompts, and evaluate the pipeline. Datograde is an all-in-one collaborative platform to do just that. Log PDFs, CSVs, Excel files and more, compare prompts and outputs, and collaborate with your team with scores, comments, and issues.
+Welcome to **Datograde** – your end-to-end AI evaluation platform. If you are building AI pipelines, you will find the need to carefully tile documents, websites, prompts, and outputs on your screen, so that you can debug issues, figure out the right prompts, and evaluate the pipeline. 
+
+**Datograde is an all-in-one collaborative platform to do just that.** 
+
+Log PDFs, CSVs, Excel files and more, compare prompts and outputs, and collaborate with your team with scores, comments, and issues.
 
 ![datograde-hero](https://github.com/user-attachments/assets/186b4440-1109-43c7-9d5a-3581dcfca771)
 
