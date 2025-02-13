@@ -2,6 +2,8 @@
 
 Welcome to **Datograde** – your end-to-end AI evaluation platform. We help teams build AI solutions that match human performance by enabling structured testing, iteration, and continuous monitoring. Whether you're refining AI models, debugging outputs, or ensuring high-quality AI responses, Datograde is here to help!
 
+![datograde-hero](https://github.com/user-attachments/assets/186b4440-1109-43c7-9d5a-3581dcfca771)
+
 ## 🎯 What We Do
 Datograde provides a **comprehensive AI evaluation framework** that allows you to:
 - **Test different aspects of your AI pipeline** with by comparing raw inputs/outputs. PDFs, not prompts.
